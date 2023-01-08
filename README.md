@@ -1,7 +1,30 @@
-<h1 align="center">Hi 👋, I'm Tanmay Srivastava</h1>
-<h3 align="center">Currently learning about IOS development and algorithms</h3>
+<h1 align="center">Hello there 👋, I'm Tanmay</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmaydev16&label=Profile%20views&color=0e75b6&style=flat" alt="tanmaydev16" /> </p>
+
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/TanmayDev16">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20ios%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=404ae3&vCenter=true&pause=1000&size=22" /></a>
+</p>
+
+
+
+
+
+<h3 align="center">Currently learning about IOS development and algorithms</h3>
+<p align="center">
+<a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/TanmayDev16?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+
+
+<img src="https://komarev.com/ghpvc/?username=tanmaydev16&label=Profile%20views&color=ff0000&labelColor=ff0000&style=for-the-badge" alt="tanmaydev16" /> 
+
+ <a href="https://github.com/TanmayDev16?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/TanmayDev16?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+
+
+
+</p>
 
 - 🔭 I’m currently working on [Custom-BITS-Impartus](https://github.com/TanmayDev16/Custom-BITS-Impartus-v1-)
 
