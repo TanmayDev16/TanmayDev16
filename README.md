@@ -27,8 +27,7 @@
 
 - ⚡ Fun fact **I think i am good at playing guitar**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanmaydev16&show_icons=true&locale=en&layout=compact" alt="tanmaydev16" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanmaydev16&show_icons=true&locale=en" alt="tanmaydev16" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanmaydev16&" alt="tanmaydev16" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tanmaydev16&" alt="tanmaydev16" /></p>
+
