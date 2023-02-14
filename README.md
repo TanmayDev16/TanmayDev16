@@ -31,7 +31,23 @@
 <img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F">
 <img src="https://img.shields.io/badge/-Swift-007acc?style=for-the-badge&labelColor=black&logo=swift&logoColor=007acc">
 <img src="https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A">
-<img src="https://img.shields.io/badge/-MySQL-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab">
+<img src="https://img.shields.io/badge/-MySQL-e535ab?style=for-the-badge&labelColor=black&logo=mysql&logoColor=e535ab">
+</h2>
+<h2>
+  <img src="https://img.shields.io/badge/-SwiftUI-61DBFB?style=for-the-badge&labelColor=black&logo=swift&logoColor=61DBFB">
+<img src="https://img.shields.io/badge/-ExpressJS-F0DB4F?style=for-the-badge&labelColor=black&logo=node.js&logoColor=F0DB4F">
+<img src="https://img.shields.io/badge/-Python-007acc?style=for-the-badge&labelColor=black&logo=python&logoColor=007acc">
+<img src="https://img.shields.io/badge/-Tensorflow-3C873A?style=for-the-badge&labelColor=black&logo=tensorflow&logoColor=3C873A">
+<img src="https://img.shields.io/badge/-MongoDB-e535ab?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=e535ab">
+</h2>
+<h2>
+<img src="https://img.shields.io/badge/-Git-e535ab?style=for-the-badge&labelColor=black&logo=git&logoColor=e535ab">
+  <img src="https://img.shields.io/badge/-Java-e535ab?style=for-the-badge&labelColor=black&logo=jdk&logoColor=e535ab">
+    <img src="https://img.shields.io/badge/-MongoDB-e535ab?style=for-the-badge&labelColor=black&logo=NPM&logoColor=e535ab">
+    <img src="https://img.shields.io/badge/-MongoDB-e535ab?style=for-the-badge&labelColor=black&logo=html5&logoColor=e535ab">
+    <img src="https://img.shields.io/badge/-MongoDB-e535ab?style=for-the-badge&labelColor=black&logo=css3&logoColor=e535ab">
+    <img src="https://img.shields.io/badge/-MongoDB-e535ab?style=for-the-badge&labelColor=black&logo=c++&logoColor=e535ab">
+  
 </h2>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tanmaydev16&" alt="tanmaydev16" /></p>
 
