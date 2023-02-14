@@ -48,5 +48,6 @@
     <img src="https://img.shields.io/badge/-Xcode-e535ab?style=for-the-badge&labelColor=black&logo=xcode&logoColor=#147EFB">
   
 </h2>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayDev16&layout=compact&theme=buefy&hide_border=true" />
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tanmaydev16&" alt="tanmaydev16" /></p>
 
