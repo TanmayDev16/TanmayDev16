@@ -1,5 +1,5 @@
 <h1 align="center">Hi I'm Tanmay <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"></h1>
-
+👨‍💻📂
 <p align="center">
   <a href="https://github.com/DenverCoder1/TanmayDev16">
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20ios%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=404ae3&vCenter=true&pause=1000&size=22" /></a>
@@ -25,6 +25,8 @@
 - 📫 How to reach [Mail me](srivastava.tanmay.162003@gmail.com)
 
 - ⚡ Fun fact **I think i am good at playing guitar**
+
+- 📈 Active on [myLinkedin](https://www.linkedin.com/in/tanmay-srivastava-a0338623a/)
 
 <h2>Top Technologies</h2>
 <h2><img src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB">
