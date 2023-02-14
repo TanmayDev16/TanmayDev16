@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **ReactJS ,ExpressJS, SwiftUI**
 
-- 📫 How to reach me **srivastava.tanmay.162003@gmail.com**
+- 📫 How to reach [Mail me](srivastava.tanmay.162003@gmail.com)
 
 - ⚡ Fun fact **I think i am good at playing guitar**
 
