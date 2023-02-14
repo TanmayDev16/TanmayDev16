@@ -49,5 +49,6 @@
   
 </h2>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayDev16&layout=compact&theme=buefy&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=TanmayDev16&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" />
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tanmaydev16&" alt="tanmaydev16" /></p>
 
