@@ -1,7 +1,7 @@
 <h1 align="center">Hi I'm Tanmay <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/TanmayDev16">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Native-IOS%20and%20Backend%20web%20developer;Always%20learning%20new%20concepts&font=Fira%20Code&center=true&width=440&height=45&color=404ae3&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Native-IOS%20and%20Backend%20web%20developer;Always%20exploring%20new%20stacks&font=Fira%20Code&center=true&width=500&height=45&color=404ae3&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <h3 align="center">Currently learning about Swift and algorithms</h3>
