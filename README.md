@@ -27,7 +27,7 @@
 
 - 📈 Active on [myLinkedin](https://www.linkedin.com/in/tanmay-srivastava-a0338623a/)
 
--- 💻 My [website](https://tanmaysri.vercel.app) on space theme
+- 💻 My [website](https://tanmaysri.vercel.app) on space theme
 
 <h2> 👨‍💻 Top Technologies</h2>
 <h2><img src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB">
