@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **Swift as well as Core Data**
 
-- 💬 Ask me about **ReactJS ,ExpressJS, SwiftUI**
+- 💬 Ask me about **ReactJS ,Tensorflow ,ExpressJS, SwiftUI**
 
 - 📫 How to reach [Mail me](srivastava.tanmay.162003@gmail.com)
 
