@@ -51,7 +51,7 @@
     <img src="https://img.shields.io/badge/-Xcode-e535ab?style=for-the-badge&labelColor=black&logo=xcode&logoColor=#147EFB">
   
 </h2>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayDev16&layout=compact&theme=buefy&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayDev16&theme=buefy&hide_border=true" />
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=TanmayDev16&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true" />
 <img src=https://github-readme-stats.vercel.app/api?username=TanmayDev16&show_icons=true alt=Tanmay />
 
