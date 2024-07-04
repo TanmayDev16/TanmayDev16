@@ -14,8 +14,8 @@
 <a href="https://github.com/TanmayDev16?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/TanmayDev16?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
-
-- 🔭 I’m currently working on [AI Assistant-Home Inventory](https://github.com/TanmayDev16/Home_Inventory)
+<p align="center"></p>
+- 🔭 I’m currently working on [AI_AssistantHome_Inventory](https://github.com/TanmayDev16/Home_Inventory)
 
 - 🌱 I’m currently learning **Pytorch as well as AWS tools**
 
@@ -30,28 +30,10 @@
 - 💻 My [website](http://tanmayy.tech) hosted on google cloud platform
 
 <h2> 👨‍💻 Top Technologies</h2>
-<h2><img src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB">
-<img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F">
-<img src="https://img.shields.io/badge/-Swift-007acc?style=for-the-badge&labelColor=black&logo=swift&logoColor=#F05138">
-<img src="https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=#339933">
-<img src="https://img.shields.io/badge/-MySQL-e535ab?style=for-the-badge&labelColor=black&logo=mysql&logoColor=#4479A1">
-</h2>
-<h2>
-  <img src="https://img.shields.io/badge/-SwiftUI-61DBFB?style=for-the-badge&labelColor=black&logo=swift&logoColor=61DBFB">
-<img src="https://img.shields.io/badge/-ExpressJS-F0DB4F?style=for-the-badge&labelColor=black&logo=node.js&logoColor=#000000">
-<img src="https://img.shields.io/badge/-Python-007acc?style=for-the-badge&labelColor=black&logo=python&logoColor=#3776AB">
-<img src="https://img.shields.io/badge/-Tensorflow-3C873A?style=for-the-badge&labelColor=black&logo=tensorflow&logoColor=#FF6F00">
-<img src="https://img.shields.io/badge/-MongoDB-e535ab?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=#47A248">
-</h2>
-<h2>
-<img src="https://img.shields.io/badge/-Git-61DBFB?style=for-the-badge&labelColor=black&logo=git&logoColor=#F05032">
-    <img src="https://img.shields.io/badge/-NPM-F0DB4F?style=for-the-badge&labelColor=black&logo=NPM&logoColor=#CB3837">
-    <img src="https://img.shields.io/badge/-HTML5-007acc?style=for-the-badge&labelColor=black&logo=html5&logoColor=#E34F26">
-    <img src="https://img.shields.io/badge/-CSS3-3C873A?style=for-the-badge&labelColor=black&logo=css3&logoColor=#1572B6">
-    <img src="https://img.shields.io/badge/-Xcode-e535ab?style=for-the-badge&labelColor=black&logo=xcode&logoColor=#147EFB">
-  
-</h2>
+<p align="center">
+<img src="https://github.com/TanmayDev16/TanmayDev16/assets/105355308/96e65df9-181a-4e4f-bfa8-88cd4bab458c" alt="Image Description" width="650" height="500">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayDev16&theme=buefy&hide_border=true" />
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=TanmayDev16&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true" />
-<img src=https://github-readme-stats.vercel.app/api?username=TanmayDev16&show_icons=true alt=Tanmay />
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=TanmayDev16&bg_color=000000&color=ffffff&line=ce7e00&point=559ed4&area=true&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=TanmayDev16&show_icons=true" alt="Tanmay" />
+</p>
 
