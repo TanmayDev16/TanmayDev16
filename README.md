@@ -14,8 +14,8 @@
 <a href="https://github.com/TanmayDev16?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/TanmayDev16?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
-<p align="center"></p>
-- 🔭 I’m currently working on [AI_AssistantHome_Inventory](https://github.com/TanmayDev16/Home_Inventory)
+
+- 🔭 I’m currently working on [AI Assistant Home Inventory](https://github.com/TanmayDev16/Home_Inventory)
 
 - 🌱 I’m currently learning **Pytorch as well as AWS tools**
 
