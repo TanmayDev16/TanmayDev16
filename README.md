@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Native-IOS%20and%20Deep%20Learning%20Engineer;Always%20exploring%20new%20stacks&font=Fira%20Code&center=true&width=500&height=45&color=404ae3&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-<h3 align="center">Currently learning about Swift and algorithms</h3>
+<h3 align="center">Currently exploring about Deep Learning and Cloud marketplace</h3>
 <p align="center">
 <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/TanmayDev16?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
@@ -15,11 +15,11 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/TanmayDev16?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
-- 🔭 I’m currently working on [Custom-BITS-Impartus](https://github.com/TanmayDev16/Custom-BITS-Impartus-v1-)
+- 🔭 I’m currently working on [Custom-BITS-Impartus](https://github.com/TanmayDev16/Home_Inventory)
 
-- 🌱 I’m currently learning **Swift as well as Core Data**
+- 🌱 I’m currently learning **Pytorch as well as AWS tools**
 
-- 💬 Ask me about **ReactJS ,Tensorflow ,ExpressJS, SwiftUI**
+- 💬 Ask me about **Swift ,Pytorch ,EC2**
 
 - 📫 How to reach [Mail me](srivastava.tanmay.162003@gmail.com)
 
@@ -27,7 +27,7 @@
 
 - 📈 Active on [myLinkedin](https://www.linkedin.com/in/tanmay-srivastava-a0338623a/)
 
-- 💻 My [website](https://tanmaysri.vercel.app) on space theme
+- 💻 My [website](http://tanmayy.tech) hosted on google cloud platform
 
 <h2> 👨‍💻 Top Technologies</h2>
 <h2><img src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB">
