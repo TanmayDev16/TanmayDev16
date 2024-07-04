@@ -32,7 +32,7 @@
 <h2> 👨‍💻 Top Technologies</h2>
 <p align="center">
 <img src="https://github.com/TanmayDev16/TanmayDev16/assets/105355308/96e65df9-181a-4e4f-bfa8-88cd4bab458c" alt="Image Description" width="650" height="500">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayDev16&theme=buefy&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayDev16&theme=buefy&hide_border=true" height="500" width="350"/>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=TanmayDev16&bg_color=000000&color=ffffff&line=ce7e00&point=559ed4&area=true&hide_border=true"/>
 <img src="https://github-readme-stats.vercel.app/api?username=TanmayDev16&show_icons=true" alt="Tanmay" />
 </p>
